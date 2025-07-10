@@ -1,99 +1,85 @@
 ---
 layout: single
+title: "Curriculum Vitae"
+permalink: /resume/
 author_profile: true
 ---
 
-# Curriculum Vitae – Dr. Paula Musuva
+# Curriculum Vitae – Eng. Rashid Ongoma
 
+---
+
+## 🎯 Professional Summary
+
+Resourceful and technically skilled Agricultural and Biosystems Engineering graduate (awaiting graduation), **Django-based software developer**, and founder of **Kuku Predikt** – an AI-powered poultry health prediction tool. Passionate about combining engineering, software, and entrepreneurship to deliver sustainable and tech-driven agricultural solutions. Also a published **author** and advocate for youth empowerment through technology.
+
+---
 
 ## 🎓 Education
 
-- **PhD in Information Systems**, University of Nairobi  
-- **MSc in Network Systems**, University of Sunderland, UK – *Distinction*  
-- **BSc in Computer Science**, Jomo Kenyatta University of Agriculture and Technology – * First Class Honours & Babaroa Trust Award Winner*
-
-
-
-## 📜 Certifications
-
-Over 20 industry certifications available on Credly: https://www.credly.com/users/pmusuva
-
-- Information Security
-- IT Governance, Risk, and Compliance (GRC)
-- Information Systems Audit
-- Digital Forensics
-- IT Service Management (ITIL)
+- **BSc in Agricultural and Biosystems Engineering**, Kenyatta University  
+  *Expected Graduation: 2025*
 
 ---
 
-## 👩‍🏫 Academic Experience
+## 💼 Work Experience
 
-**Assistant Professor**, Information Systems  
-*United States International University – Africa*  
-- Over 13 years of teaching experience  
-- Trained 3,900+ undergraduate and postgraduate students  
-- Supervised 22 MSc students 
-- Currently supervising 6 PhD candidates  
-- Spearheaded the development of the MSc in Information Security program (MSEC)  
-- Contributed to curriculum review and quality improvement for IT and CS programs  
+**Founder & Lead Developer** – *Kuku Predikt*  
+*2024 – Present*  
+- Developed an offline and web-based AI tool using **Django**, **Kotlin**, and **TensorFlow Lite** for poultry disease prediction.  
+- Designed image-based deep learning models to identify coccidiosis from poultry droppings.  
+- Built a mobile-friendly interface for smallholder farmers in Kenya.  
+- Led deployment and user training for early adopters.
 
----
+**Irrigation Engineer** – *Finetouch Irrigation Ltd*  
+*Jan 2024 – May 2025*  
+- Designed and implemented efficient irrigation systems for farms across Kenya.  
+- Installed and maintained pumps and controllers.  
+- Trained farmers and field staff on proper usage and maintenance.
 
-## 🧪 Research & Publications
-
-- 18 peer-reviewed journal articles and conference papers  
-- Key research areas:
-  - Cybersecurity education
-  - Governance, Risk and Compliance
-  - Vulnerability analysis
-  - Digital forensics
-  - Cyber hygiene and awareness  
-- Research collaborations with:
-  - Serianu Limited
-  - SWIFT Institute
-  - KICTANet
-  - CIRI (Centre for Informatics Research and Innovation)
+**Pump Maintenance Intern** – *Finetouch Irrigation Ltd*  
+*Sept 2023 – Dec 2023*  
+- Supported servicing and diagnostics of various agricultural pump systems.  
+- Maintained detailed service reports and collaborated with senior technicians.
 
 ---
 
-## 🌍 Community Engagement
+## 🧰 Technical & Soft Skills
 
-**Cyber Shujaa Program**, Co-Founder & Curriculum Director  
-- A consortium of Serianu Ltd, USIU-Africa, and Kenya Bankers Association  
-- Trained 2,550 youth across Kenya (41% women)  
-- 80%+ job placement rate in cybersecurity roles  
-- Developed and certified courses for roles such as security analyst, ethical hacker, GRC auditor, and DPO  
-
-**Tatua Digital Resilience Center**  
-- Co-developed a 5-chapter Cyber Hygiene Curriculum  
-- Promoted digital safety and resilience among citizens
-
-**Consulting & Advocacy**  
-- ICT policy advisor and consultant for [KICTANet](https://www.kictanet.or.ke)  
-- Contributor to national cybersecurity strategies and public interest tech initiatives  
+- Django Web Development (Python)  
+- Android Development (Kotlin, Jetpack Compose)  
+- TensorFlow Lite, Image Classification  
+- Irrigation System Design & Pump Maintenance  
+- Basic CAD and MATLAB  
+- Problem-solving & Critical Thinking  
+- Communication & Team Collaboration  
+- Fast Learning & Adaptability  
 
 ---
 
-## 💼 Professional Experience
+## 📜 Certifications & Leadership
 
-**Senior Technology Consultant**, Deloitte East Africa  
-**Service Delivery Team Leader**, IT Service Management (UK, Kenya, Uganda, Ethiopia)  
-- Implemented enterprise networks and security systems across Africa  
-- Led ITIL-based service management implementations  
-- Mentored professionals and guided corporate cybersecurity transformations
+- **Taekwondo Instructor** – Disciplined, team-oriented, and experienced in coaching.  
+- **Cybersecurity Enthusiast** – Exploring cloud security and data protection via the **Cyber Shujaa** Program.  
+- **Author** – Passionate about creative writing and publishing (poetry, technical blogs).  
 
 ---
 
-## 🤝 Collaborations & Memberships
+## 💡 Projects & Initiatives
 
-- Challenge Fund for Youth Employment (CFYE)
-- Kenya Bankers Association (KBA)
-- Serianu Research Fellowship Program
-- Centre for Informatics Research and Innovation (CIRI)
+- **Kuku Predikt** – AI-driven app for poultry health diagnosis  
+- **Berry Cakes Website (in progress)** – Web ordering and design visualization platform for cakes  
+- **Mkokoteni Transport Initiative** – Social enterprise supporting women vendors in Korogocho
 
 ---
 
-> Passionate about mentoring the next generation of cybersecurity leaders and advancing Africa’s capacity in digital security, education, and policy.
+## 🌍 Languages
+
+- English  
+- Kiswahili  
+
+---
+
+> "My mission is to bridge practical engineering, software innovation, and grassroots entrepreneurship to solve real-world challenges in food, health, and tech."
 
 [Back to Home](/)
-✅
