@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dr. Paula Musuva
-email: pmusuva@usiu.ac.ke
+title: Eng. Rashid Ongoma
+email: rashidongoma@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Assistant Professor of Information Systems | Researcher | Consultant
-twitter_username: pmusuva
-github_username: pmmusuva
+  Main Developer at Kuku Predikt and Soma Smart | Researcher | Consultant
+twitter_username: youngdevelopa
+github_username: youngdevelopa
 minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
@@ -56,19 +56,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dr. Paula Musuva"
+  name   : "Eng. Rashid Ongoma"
   avatar : "/assets/images/photo.jpg"
-  bio    : "I teach, research, and consult."
+  bio    : "I write programs, research, and consult."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/pmusuva/"
+      url: "https://www.linkedin.com/in/rashid-ongoma-49a15917b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pmmusuva/"
+      url: "https://github.com/youngdevelopa/"
     - label: "Cyber Shujaa"
       icon: "fas fa-shield-alt"
       url: "https://cybershujaa.co.ke/"
@@ -77,10 +77,10 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/pmusuva/"
+      url: "https://www.linkedin.com/in/rashid-ongoma-49a15917b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pmmusuva/"
+      url: "https://github.com/youngdevelopa/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en"
