@@ -7,15 +7,17 @@ author_profile: true
 
 # 📬 Contact Me
 
-Whether you're interested in collaboration, consulting, or just saying hi — I'm happy to connect.
+Whether you're looking to collaborate, hire, or ask questions — feel free to reach out!
 
 ## 📧 Email
-- **rashidongoma@gmail.com**
+**rashidongoma@gmail.com**
 
 ## 💬 WhatsApp
-- [Click to Chat on WhatsApp](https://wa.me/254745707598)
+[Click to Chat on WhatsApp](https://wa.me/254745707598)
 
-## 📝 Contact Form
+---
+
+## 📩 Contact Form
 
 <form action="https://formsubmit.co/rashidongoma@gmail.com" method="POST">
   <input type="text" name="name" placeholder="Your Name" required><br><br>
