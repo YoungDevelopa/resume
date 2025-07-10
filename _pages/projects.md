@@ -6,44 +6,54 @@ permalink: /projects/
 
 # Selected Projects
 
-## 🚀 Cyber Shujaa Program  
-**Role:** Co-Founder & Curriculum and Training Director  
-A youth employment initiative in cybersecurity offering hands-on technical and soft skills training.  
-- Trained over 2,500 youth with 80% job placement rate  
-- Built curriculum for roles including Ethical Hackers, Security Analysts, and DPOs  
-- [Program Website](https://www.cybershujaa.org)
+---
+
+## 🐔 Kuku Predikt  
+**Role:** Founder & Lead Developer  
+An AI-powered poultry health prediction tool designed for smallholder farmers in Kenya.  
+- Built with **Django**, **TensorFlow Lite**, and **Kotlin** for Android  
+- Uses image classification to detect diseases like **coccidiosis** in poultry droppings  
+- Supports both offline and online usage  
+- Includes farmer-friendly UI and recommendation engine  
+- [Visit Project Site](https://youngdevelopa.github.io/resume/)
 
 ---
 
-## 🛡️ Tatua Digital Resilience Center  
-**Role:** Consultant  
-Developed a 5-chapter **Cyber Hygiene Curriculum** to promote safe digital practices among citizens.  
-- Created awareness materials and e-learning content  
-- Engaged through KICTANet with community feedback loops  
-- [Learn More](https://www.kictanet.or.ke)
+## 🌱 Irrigation System Design & Pump Maintenance  
+**Role:** Irrigation Engineer  
+Led the design and installation of water-efficient irrigation systems at Finetouch Irrigation Ltd.  
+- Supported over a dozen farms across Kenya  
+- Specialized in pump installation, maintenance, and technical training  
+- Developed maintenance protocols and trained field teams
 
 ---
 
-## 📊 [Cybersecurity Youth Employability Dashboard](https://github.com/YOUR_USERNAME/cyber-employment-dashboard)  
-**Role:** Developer  
-Interactive data visualization dashboard showing employment metrics and trends from the Cyber Shujaa program.  
-- Built with Python, Plotly Dash, and Pandas  
-- Analyzed placement outcomes, gender parity, and institutional outreach  
-- [View on GitHub](https://github.com/YOUR_USERNAME/cyber-employment-dashboard)
+## 📱 Berry Cakes Web & Mobile App *(in progress)*  
+**Role:** Full Stack Developer  
+A cake design and ordering platform for local bakers.  
+- Allows customers to customize cake appearance and book via WhatsApp  
+- Developed with **HTML/CSS**, **JavaScript**, and **Django** backend  
+- Ongoing Android app build using **Jetpack Compose**
 
 ---
 
-## 🔍 [Digital Forensics Toolkit](https://github.com/YOUR_USERNAME/forensics-toolkit)  
-**Role:** Developer & Trainer  
-Toolkit for teaching basic forensics techniques to undergraduate students.  
-- Features modules on memory forensics, file carving, and OSINT  
-- Includes downloadable lab exercises and walkthroughs  
-- [View on GitHub](https://github.com/YOUR_USERNAME/forensics-toolkit)
+## 🛒 Mkokoteni Transport Initiative – Korogocho  
+**Role:** Founder  
+A grassroots transport project supporting **mama mbogas** in Gomongo and Korogocho.  
+- Designed durable carts for vegetable delivery and general transport  
+- Supports women's businesses by reducing transport time and cost  
+- Community-led and sustainability-focused
 
 ---
 
-## 🌐 [InfoSec Audit Checklists](https://github.com/YOUR_USERNAME/infosec-audit-checklists)  
-A collection of editable checklists for use in Information Systems Audit courses.  
-- Aligned with COBIT, ISO 27001, and NIST  
-- Editable templates for student assignments and consultancy work  
-- [View on GitHub](https://github.com/YOUR_USERNAME/infosec-audit-checklists)
+## ✍️ Author Projects  
+**Role:** Writer & Poet  
+- Writes poetry and short prose focusing on African identity, youth struggles, and hope  
+- Working on publishing first collection  
+- Engages youth in creative writing workshops and literary outreach  
+
+---
+
+> Explore how engineering, code, and community work together to solve real-world problems.
+
+[Back to Home](/)
