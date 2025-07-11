@@ -12,7 +12,7 @@ I’m **Eng. Rashid Ongoma** — an engineer, Django software developer, and fou
 Explore my:
 - [📄 Resume](/resume/)
 - [🛠️ Projects](/projects/)
-- [📬 Contact](/contact/) *(optional)*
+- [📬 Contact](/contact/)
 
 Let’s build impactful solutions together.
 
