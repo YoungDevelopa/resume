@@ -13,6 +13,7 @@ Explore my:
 - [📄 Resume](/resume/)
 - [🛠️ Projects](/projects/)
 - [📬 Contact](/contact/)
+- [🧪 Lab Challenges](/labs/)
 
 
 Let’s build impactful solutions together.
