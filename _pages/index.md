@@ -10,9 +10,10 @@ permalink: /
 I’m **Eng. Rashid Ongoma** — an engineer, Django software developer, and founder of [Kuku Predikt](https://youngdevelopa.github.io/resume/projects/). I specialize in blending tech and agriculture to solve real-world problems — from AI-powered poultry health tools to mobile apps and community-led innovations.
 
 Explore my:
-- [📄 Resume](/resume/)
-- [🛠️ Projects](/projects/)
-- [📬 Contact](/contact/)
+- [📄 Resume]({{ site.baseurl }}/resume/)
+- [🛠️ Projects]({{ site.baseurl }}/projects/)
+- [📬 Contact]({{ site.baseurl }}/contact/)
+
 
 Let’s build impactful solutions together.
 
