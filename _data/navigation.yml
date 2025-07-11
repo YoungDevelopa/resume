@@ -8,4 +8,4 @@ main:
   - title: "Contact"
     url: "/contact/"
   - title: "Lab Challenges"
-      url: /labs/
+    url: "/labs/"
