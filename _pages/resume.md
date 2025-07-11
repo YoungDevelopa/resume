@@ -8,12 +8,7 @@ author_profile: true
 [⬇️ Download My Resume (PDF)](/assets/images/Rashid_Ongoma_Resume.pdf){: .btn .btn--primary }
 
 <!-- Your resume content here -->
----
-layout: single
-title: "Curriculum Vitae"
-permalink: /resume/
-author_profile: true
----
+
 
 # Curriculum Vitae – Eng. Rashid Ongoma
 
