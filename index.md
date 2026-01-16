@@ -11,65 +11,85 @@ author_profile: true
 
 ## 🎯 Professional Summary
 
-Resourceful and technically skilled Agricultural and Biosystems Engineering graduate (awaiting graduation), **Django-based software developer**, and founder of **Kuku Predikt** – an AI-powered poultry health prediction tool. Passionate about combining engineering, software, and entrepreneurship to deliver sustainable and tech-driven agricultural solutions. Also a published **author** and advocate for youth empowerment through technology.
+Software-focused engineer and **2025 graduate in Agricultural and Biosystems Engineering** with strong practical experience in **Django-based backend development**, **AI-powered applications**, and **mobile development**. Founder of **Kuku Predikt**, an applied machine-learning platform for poultry health diagnostics. Passionate about building scalable, offline-capable software solutions for real-world problems, particularly in agriculture, health, and small-business systems. Now fully available and motivated to **commence a professional software development career**.
 
 ---
 
 ## 🎓 Education
 
-- **BSc in Agricultural and Biosystems Engineering**, Kenyatta University  
-  *Expected Graduation: 2025*
+- **Bachelor of Science in Agricultural and Biosystems Engineering**  
+  **Kenyatta University**  
+  *Graduated: 2025*
 
 ---
 
 ## 💼 Work Experience
 
-**Founder & Lead Developer** – *Kuku Predikt*  
+### **Founder & Lead Developer** – *Kuku Predikt*  
 *2024 – Present*  
-- Developed an offline and web-based AI tool using **Django**, **Kotlin**, and **TensorFlow Lite** for poultry disease prediction.  
-- Designed image-based deep learning models to identify coccidiosis from poultry droppings.  
-- Built a mobile-friendly interface for smallholder farmers in Kenya.  
-- Led deployment and user training for early adopters.
 
-**Irrigation Engineer** – *Finetouch Irrigation Ltd*  
+- Designed and developed an **offline-first AI-powered poultry disease prediction system** using **Django**, **TensorFlow Lite**, and **Kotlin**.  
+- Built image-based deep learning pipelines for detecting poultry health conditions from droppings.  
+- Developed a **mobile-friendly and farmer-centric user interface** optimized for low-connectivity environments.  
+- Integrated model inference into web and Android platforms for real-world deployment.  
+- Led system architecture, testing, iteration, and early user onboarding.
+
+---
+
+### **Irrigation Engineer** – *Finetouch Irrigation Ltd*  
 *Jan 2024 – May 2025*  
-- Designed and implemented efficient irrigation systems for farms across Kenya.  
-- Installed and maintained pumps and controllers.  
-- Trained farmers and field staff on proper usage and maintenance.
 
-**Pump Maintenance Intern** – *Finetouch Irrigation Ltd*  
+- Designed and implemented irrigation systems across multiple agricultural sites in Kenya.  
+- Installed, tested, and maintained pumps, controllers, and field equipment.  
+- Produced technical documentation and trained farmers on system operation and maintenance.  
+- Strengthened problem-solving, systems thinking, and field-based technical decision-making skills.
+
+---
+
+### **Pump Maintenance Intern** – *Finetouch Irrigation Ltd*  
 *Sept 2023 – Dec 2023*  
-- Supported servicing and diagnostics of various agricultural pump systems.  
-- Maintained detailed service reports and collaborated with senior technicians.
+
+- Assisted in diagnostics, servicing, and repair of agricultural pump systems.  
+- Maintained service logs and collaborated with senior technicians on troubleshooting tasks.  
+- Gained hands-on exposure to mechanical systems, safety procedures, and operational workflows.
 
 ---
 
 ## 🧰 Technical & Soft Skills
 
-- Django Web Development (Python)  
+**Software & Technology**
+- Python & Django (Backend Development)  
 - Android Development (Kotlin, Jetpack Compose)  
-- TensorFlow Lite, Image Classification  
-- Irrigation System Design & Pump Maintenance  
-- Basic CAD and MATLAB  
-- Problem-solving & Critical Thinking  
-- Communication & Team Collaboration  
-- Fast Learning & Adaptability  
+- TensorFlow Lite & Image Classification  
+- REST APIs & Web App Architecture  
+- Offline-first & low-bandwidth system design  
+
+**Engineering & Systems**
+- Irrigation System Design  
+- Pump Installation & Maintenance  
+- Basic CAD & MATLAB  
+
+**Professional Skills**
+- Problem-solving & analytical thinking  
+- Clear technical communication  
+- Team collaboration & leadership  
+- Fast learning & adaptability  
 
 ---
 
 ## 📜 Certifications & Leadership
 
-- **Taekwondo Instructor** – Disciplined, team-oriented, and experienced in coaching.  
-- **Cybersecurity Enthusiast** – Exploring cloud security and data protection via the **Cyber Shujaa** Program.  
-- **Author** – Passionate about creative writing and publishing (poetry, technical blogs).  
+- **Taekwondo Instructor** – Demonstrated discipline, leadership, and mentoring experience  
+- **Cybersecurity Enthusiast** – Actively learning cloud security and data protection through the **Cyber Shujaa Program**  
+- **Author** – Writer of poetry and technical blogs, with a strong interest in clear communication and knowledge sharing  
 
 ---
 
 ## 💡 Projects & Initiatives
 
-- **Kuku Predikt** – AI-driven app for poultry health diagnosis  
-- **Berry Cakes Website (in progress)** – Web ordering and design visualization platform for cakes  
-- **Mkokoteni Transport Initiative** – Social enterprise supporting women vendors in Korogocho
+- **Kuku Predikt** – AI-driven poultry health diagnosis platform  
+- **Berry Cakes Website (in progress)** – Web-based ordering and visual design system  
+- **Mkokoteni Transport Initiative** – Social enterprise supporting women vendors in Korogocho  
 
 ---
 
@@ -80,6 +100,6 @@ Resourceful and technically skilled Agricultural and Biosystems Engineering grad
 
 ---
 
-> "My mission is to bridge practical engineering, software innovation, and grassroots entrepreneurship to solve real-world challenges in food, health, and tech."
+> *“My mission is to build practical software systems that bridge engineering knowledge, AI, and community-driven innovation to solve real-world problems.”*
 
 [Back to Home](/)
