@@ -7,5 +7,3 @@ main:
     url: "/projects/"
   - title: "Contact"
     url: "/contact/"
-  - title: "Lab Challenges"
-    url: "/labs/"
